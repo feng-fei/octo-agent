@@ -1,4 +1,4 @@
-# Octo — Go build & test orchestration (Go 1.22+)
+# Octo — Go build & test orchestration (Go 1.25+)
 #
 # Usage:
 #   make            same as `make test`
